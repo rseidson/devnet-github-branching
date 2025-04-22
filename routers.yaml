@@ -9,3 +9,13 @@ routers:
     username: admin
     password: cisco123
     enable_password: enable123
+  - hostname: router3
+    ip: 192.168.1.3
+    username: admin
+    password: cisco123
+    enable_password: enable123
+  - hostname: router4
+    ip: 192.168.1.4
+    username: admin
+    password: cisco123
+    enable_password: enable123
