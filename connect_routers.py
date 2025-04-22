@@ -10,6 +10,7 @@ def connect_to_router(router):
     print(f"Connecting to {router['hostname']} at {router['ip']}...")
     print(f"Using username: {router['username']}")
     print(f"Enable password: {router['enable_password']}")
+    print(f"Example command: 'show ip interface brief'")
     print(f"Connection to {router['hostname']} successful!")
     print("-" * 40)
 
